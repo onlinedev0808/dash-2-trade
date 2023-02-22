@@ -1,0 +1,430 @@
+[
+  { "country": "Afghanistan", "status": "4", "tooltip": "description text" },
+  { "country": "land Islands", "status": "1", "tooltip": "description text" },
+  { "country": "Albania", "status": "0", "tooltip": "description text" },
+  { "country": "Algeria", "status": "1", "tooltip": "description text" },
+  { "country": "American Samoa", "status": "0", "tooltip": "description text" },
+  { "country": "AndorrA", "status": "2", "tooltip": "description text" },
+  { "country": "Angola", "status": "4", "tooltip": "description text" },
+  { "country": "Anguilla", "status": "0", "tooltip": "description text" },
+  { "country": "Antarctica", "status": "2", "tooltip": "description text" },
+  {
+    "country": "Antigua and Barbuda",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Argentina", "status": "1", "tooltip": "description text" },
+  { "country": "Armenia", "status": "1", "tooltip": "description text" },
+  { "country": "Aruba", "status": "0", "tooltip": "description text" },
+  { "country": "Australia", "status": "1", "tooltip": "description text" },
+  { "country": "Austria", "status": "1", "tooltip": "description text" },
+  { "country": "Azerbaijan", "status": "0", "tooltip": "description text" },
+  { "country": "Bahamas", "status": "1", "tooltip": "description text" },
+  { "country": "Bahrain", "status": "3", "tooltip": "description text" },
+  { "country": "Bangladesh", "status": "0", "tooltip": "description text" },
+  { "country": "Barbados", "status": "0", "tooltip": "description text" },
+  { "country": "Belarus", "status": "1", "tooltip": "description text" },
+  { "country": "Belgium", "status": "2", "tooltip": "description text" },
+  { "country": "Belize", "status": "2", "tooltip": "description text" },
+  { "country": "Benin", "status": "1", "tooltip": "description text" },
+  { "country": "Bermuda", "status": "2", "tooltip": "description text" },
+  { "country": "Bhutan", "status": "1", "tooltip": "description text" },
+  { "country": "Bolivia", "status": "3", "tooltip": "description text" },
+  {
+    "country": "Bosnia and Herzegovina",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Botswana", "status": "0", "tooltip": "description text" },
+  { "country": "Bouvet Island", "status": "1", "tooltip": "description text" },
+  { "country": "Brazil", "status": "4", "tooltip": "description text" },
+  {
+    "country": "British Indian Ocean Territory",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Bulgaria", "status": "0", "tooltip": "description text" },
+  { "country": "Burkina Faso", "status": "2", "tooltip": "description text" },
+  { "country": "Burundi", "status": "1", "tooltip": "description text" },
+  { "country": "Cambodia", "status": "1", "tooltip": "description text" },
+  { "country": "Cameroon", "status": "1", "tooltip": "description text" },
+  { "country": "Canada", "status": "1", "tooltip": "description text" },
+  { "country": "Cape Verde", "status": "1", "tooltip": "description text" },
+  { "country": "Cayman Islands", "status": "2", "tooltip": "description text" },
+  {
+    "country": "Central African Republic",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Chad", "status": "4", "tooltip": "description text" },
+  { "country": "Chile", "status": "1", "tooltip": "description text" },
+  { "country": "China", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Christmas Island",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Colombia", "status": "1", "tooltip": "description text" },
+  { "country": "Comoros", "status": "1", "tooltip": "description text" },
+  { "country": "Congo", "status": "0", "tooltip": "description text" },
+  {
+    "country": "Congo, The Democratic Republic of the",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  { "country": "Cook Islands", "status": "4", "tooltip": "description text" },
+  { "country": "Costa Rica", "status": "1", "tooltip": "description text" },
+  { "country": "Cote D\"Ivoire", "status": "0", "tooltip": "description text" },
+  { "country": "Croatia", "status": "1", "tooltip": "description text" },
+  { "country": "Cuba", "status": "2", "tooltip": "description text" },
+  { "country": "Cyprus", "status": "2", "tooltip": "description text" },
+  { "country": "Czech Republic", "status": "1", "tooltip": "description text" },
+  { "country": "Denmark", "status": "2", "tooltip": "description text" },
+  { "country": "Djibouti", "status": "3", "tooltip": "description text" },
+  { "country": "Dominica", "status": "2", "tooltip": "description text" },
+  {
+    "country": "Dominican Republic",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Ecuador", "status": "1", "tooltip": "description text" },
+  { "country": "Egypt", "status": "0", "tooltip": "description text" },
+  { "country": "El Salvador", "status": "4", "tooltip": "description text" },
+  {
+    "country": "Equatorial Guinea",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Eritrea", "status": "0", "tooltip": "description text" },
+  { "country": "Estonia", "status": "0", "tooltip": "description text" },
+  { "country": "Ethiopia", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Falkland Islands (Malvinas)",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Faroe Islands", "status": "0", "tooltip": "description text" },
+  { "country": "Fiji", "status": "0", "tooltip": "description text" },
+  { "country": "Finland", "status": "4", "tooltip": "description text" },
+  { "country": "France", "status": "1", "tooltip": "description text" },
+  { "country": "French Guiana", "status": "0", "tooltip": "description text" },
+  {
+    "country": "French Polynesia",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  {
+    "country": "French Southern Territories",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Gabon", "status": "3", "tooltip": "description text" },
+  { "country": "Gambia", "status": "2", "tooltip": "description text" },
+  { "country": "Georgia", "status": "1", "tooltip": "description text" },
+  { "country": "Germany", "status": "4", "tooltip": "description text" },
+  { "country": "Ghana", "status": "2", "tooltip": "description text" },
+  { "country": "Gibraltar", "status": "1", "tooltip": "description text" },
+  { "country": "Greece", "status": "1", "tooltip": "description text" },
+  { "country": "Greenland", "status": "2", "tooltip": "description text" },
+  { "country": "Grenada", "status": "2", "tooltip": "description text" },
+  { "country": "Guadeloupe", "status": "1", "tooltip": "description text" },
+  { "country": "Guam", "status": "1", "tooltip": "description text" },
+  { "country": "Guatemala", "status": "1", "tooltip": "description text" },
+  { "country": "Guernsey", "status": "1", "tooltip": "description text" },
+  { "country": "Guinea", "status": "1", "tooltip": "description text" },
+  { "country": "Guinea-Bissau", "status": "1", "tooltip": "description text" },
+  { "country": "Guyana", "status": "1", "tooltip": "description text" },
+  { "country": "Haiti", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Heard Island and Mcdonald Islands",
+    "status": "3",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Honduras", "status": "0", "tooltip": "description text" },
+  { "country": "Hong Kong", "status": "1", "tooltip": "description text" },
+  { "country": "Hungary", "status": "1", "tooltip": "description text" },
+  { "country": "Iceland", "status": "1", "tooltip": "description text" },
+  { "country": "India", "status": "1", "tooltip": "description text" },
+  { "country": "Indonesia", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Iran, Islamic Republic Of",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  { "country": "Iraq", "status": "0", "tooltip": "description text" },
+  { "country": "Ireland", "status": "1", "tooltip": "description text" },
+  { "country": "Isle of Man", "status": "2", "tooltip": "description text" },
+  { "country": "Israel", "status": "2", "tooltip": "description text" },
+  { "country": "Italy", "status": "4", "tooltip": "description text" },
+  { "country": "Jamaica", "status": "0", "tooltip": "description text" },
+  { "country": "Japan", "status": "0", "tooltip": "description text" },
+  { "country": "Jersey", "status": "1", "tooltip": "description text" },
+  { "country": "Jordan", "status": "0", "tooltip": "description text" },
+  { "country": "Kazakhstan", "status": "1", "tooltip": "description text" },
+  { "country": "Kenya", "status": "4", "tooltip": "description text" },
+  { "country": "Kiribati", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Korea, Democratic People\"S Republic of",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Korea, Republic of",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Kuwait", "status": "1", "tooltip": "description text" },
+  { "country": "Kyrgyzstan", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Lao People\"S Democratic Republic",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  { "country": "Latvia", "status": "1", "tooltip": "description text" },
+  { "country": "Lebanon", "status": "2", "tooltip": "description text" },
+  { "country": "Lesotho", "status": "2", "tooltip": "description text" },
+  { "country": "Liberia", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "status": "4",
+    "tooltip": "description text"
+  },
+  { "country": "Liechtenstein", "status": "1", "tooltip": "description text" },
+  { "country": "Lithuania", "status": "1", "tooltip": "description text" },
+  { "country": "Luxembourg", "status": "2", "tooltip": "description text" },
+  { "country": "Macao", "status": "0", "tooltip": "description text" },
+  {
+    "country": "Macedonia, The Former Yugoslav Republic of",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  { "country": "Madagascar", "status": "0", "tooltip": "description text" },
+  { "country": "Malawi", "status": "2", "tooltip": "description text" },
+  { "country": "Malaysia", "status": "1", "tooltip": "description text" },
+  { "country": "Maldives", "status": "4", "tooltip": "description text" },
+  { "country": "Mali", "status": "2", "tooltip": "description text" },
+  { "country": "Malta", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Marshall Islands",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Martinique", "status": "1", "tooltip": "description text" },
+  { "country": "Mauritania", "status": "1", "tooltip": "description text" },
+  { "country": "Mauritius", "status": "1", "tooltip": "description text" },
+  { "country": "Mayotte", "status": "1", "tooltip": "description text" },
+  { "country": "Mexico", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Micronesia, Federated States of",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Moldova, Republic of",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Monaco", "status": "0", "tooltip": "description text" },
+  { "country": "Mongolia", "status": "0", "tooltip": "description text" },
+  { "country": "Montenegro", "status": "1", "tooltip": "description text" },
+  { "country": "Montserrat", "status": "1", "tooltip": "description text" },
+  { "country": "Morocco", "status": "1", "tooltip": "description text" },
+  { "country": "Mozambique", "status": "1", "tooltip": "description text" },
+  { "country": "Myanmar", "status": "2", "tooltip": "description text" },
+  { "country": "Namibia", "status": "2", "tooltip": "description text" },
+  { "country": "Nauru", "status": "1", "tooltip": "description text" },
+  { "country": "Nepal", "status": "1", "tooltip": "description text" },
+  { "country": "Netherlands", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Netherlands Antilles",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  { "country": "New Caledonia", "status": "0", "tooltip": "description text" },
+  { "country": "New Zealand", "status": "0", "tooltip": "description text" },
+  { "country": "Nicaragua", "status": "2", "tooltip": "description text" },
+  { "country": "Niger", "status": "1", "tooltip": "description text" },
+  { "country": "Nigeria", "status": "1", "tooltip": "description text" },
+  { "country": "Niue", "status": "2", "tooltip": "description text" },
+  { "country": "Norfolk Island", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Northern Mariana Islands",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  { "country": "Norway", "status": "4", "tooltip": "description text" },
+  { "country": "Oman", "status": "2", "tooltip": "description text" },
+  { "country": "Pakistan", "status": "1", "tooltip": "description text" },
+  { "country": "Palau", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Palestinian Territory, Occupied",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  { "country": "Panama", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Papua New Guinea",
+    "status": "4",
+    "tooltip": "description text"
+  },
+  { "country": "Paraguay", "status": "2", "tooltip": "description text" },
+  { "country": "Peru", "status": "1", "tooltip": "description text" },
+  { "country": "Philippines", "status": "1", "tooltip": "description text" },
+  { "country": "Pitcairn", "status": "1", "tooltip": "description text" },
+  { "country": "Poland", "status": "4", "tooltip": "description text" },
+  { "country": "Portugal", "status": "1", "tooltip": "description text" },
+  { "country": "Puerto Rico", "status": "0", "tooltip": "description text" },
+  { "country": "Qatar", "status": "0", "tooltip": "description text" },
+  { "country": "Reunion", "status": "1", "tooltip": "description text" },
+  { "country": "Romania", "status": "2", "tooltip": "description text" },
+  {
+    "country": "Russian Federation",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "RWANDA", "status": "1", "tooltip": "description text" },
+  { "country": "Saint Helena", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Saint Kitts and Nevis",
+    "status": "3",
+    "tooltip": "description text"
+  },
+  { "country": "Saint Lucia", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Samoa", "status": "2", "tooltip": "description text" },
+  { "country": "San Marino", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Sao Tome and Principe",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  { "country": "Saudi Arabia", "status": "1", "tooltip": "description text" },
+  { "country": "Senegal", "status": "1", "tooltip": "description text" },
+  { "country": "Serbia", "status": "1", "tooltip": "description text" },
+  { "country": "Seychelles", "status": "0", "tooltip": "description text" },
+  { "country": "Sierra Leone", "status": "2", "tooltip": "description text" },
+  { "country": "Singapore", "status": "1", "tooltip": "description text" },
+  { "country": "Slovakia", "status": "1", "tooltip": "description text" },
+  { "country": "Slovenia", "status": "3", "tooltip": "description text" },
+  {
+    "country": "Solomon Islands",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  { "country": "Somalia", "status": "0", "tooltip": "description text" },
+  { "country": "South Africa", "status": "1", "tooltip": "description text" },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Spain", "status": "0", "tooltip": "description text" },
+  { "country": "Sri Lanka", "status": "1", "tooltip": "description text" },
+  { "country": "Sudan", "status": "1", "tooltip": "description text" },
+  { "country": "Suricountry", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Swaziland", "status": "2", "tooltip": "description text" },
+  { "country": "Sweden", "status": "2", "tooltip": "description text" },
+  { "country": "Switzerland", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Syrian Arab Republic",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Taiwan, Province of China",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Tajikistan", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Tanzania, United Republic of",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  { "country": "Thailand", "status": "1", "tooltip": "description text" },
+  { "country": "Timor-Leste", "status": "1", "tooltip": "description text" },
+  { "country": "Togo", "status": "0", "tooltip": "description text" },
+  { "country": "Tokelau", "status": "1", "tooltip": "description text" },
+  { "country": "Tonga", "status": "1", "tooltip": "description text" },
+  {
+    "country": "Trinidad and Tobago",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Tunisia", "status": "1", "tooltip": "description text" },
+  { "country": "Turkey", "status": "1", "tooltip": "description text" },
+  { "country": "Turkmenistan", "status": "2", "tooltip": "description text" },
+  {
+    "country": "Turks and Caicos Islands",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Tuvalu", "status": "0", "tooltip": "description text" },
+  { "country": "Uganda", "status": "1", "tooltip": "description text" },
+  { "country": "Ukraine", "status": "1", "tooltip": "description text" },
+  {
+    "country": "United Arab Emirates",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "United Kingdom", "status": "2", "tooltip": "description text" },
+  { "country": "United States", "status": "1", "tooltip": "description text" },
+  {
+    "country": "United States Minor Outlying Islands",
+    "status": "1",
+    "tooltip": "description text"
+  },
+  { "country": "Uruguay", "status": "0", "tooltip": "description text" },
+  { "country": "Uzbekistan", "status": "1", "tooltip": "description text" },
+  { "country": "Vanuatu", "status": "1", "tooltip": "description text" },
+  { "country": "Venezuela", "status": "2", "tooltip": "description text" },
+  { "country": "Viet Nam", "status": "0", "tooltip": "description text" },
+  {
+    "country": "Virgin Islands, British",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "status": "0",
+    "tooltip": "description text"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "status": "2",
+    "tooltip": "description text"
+  },
+  { "country": "Western Sahara", "status": "0", "tooltip": "description text" },
+  { "country": "Yemen", "status": "2", "tooltip": "description text" },
+  { "country": "Zambia", "status": "1", "tooltip": "description text" },
+  { "country": "Zimbabwe", "status": "1", "tooltip": "description text" }
+]

@@ -1,0 +1,200 @@
+const plugin = require("tailwindcss/plugin");
+
+module.exports = {
+  content: [
+    "./src/pages/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}",
+  ],
+  darkMode: "class",
+  theme: {
+    fontSize: {
+      xs: "0.75rem",
+      sm: "0.875rem",
+      "2sm": "0.923rem",
+      base: "1rem",
+      larger: "1.077rem",
+      lg: "1.125rem",
+      xl: "1.25rem",
+      "1.5xl": "1.385rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.46rem",
+      "5xl": "3rem",
+      "6xl": "4rem",
+    },
+    extend: {
+      colors: {
+        dark: {
+          bg: {
+            base: "#0F1213",
+          },
+        },
+        background: "#F8FAFF",
+        "cookie-consent": "#171D34",
+        "cookie-consent-b": "#414D7A",
+        "background-dark": "#0F1213",
+        "background-secondary-dark": "#161926",
+        "background-tertiary-dark": "#171D34",
+        "background-light-dark": "#35416D",
+        foreground: "#FFFFFF",
+        "foreground-dark": "#141821",
+        "foreground-secondary-dark": "#1C212E",
+        "foreground-highlight-dark": "#141821",
+        "bg-highlight-dark": "#202736",
+        "text-primary": "#232635",
+        "text-primary-dark": "#FFFFFF",
+        "text-secondary": "#777B9E",
+        "text-secondary-dark": "#7D819E",
+        "navigation-background": "#FFFFFF",
+        "navigation-background-dark": "#1A1E2C",
+        highlight: "#F1F3FF",
+        "highlight-dark": "#23283A",
+        "highlight-secondary-dark": "#2A3141",
+        "hover-highlight": "#F1EDF980",
+        "hover-highlight-dark": "#12161880",
+        "border-primary": "#333438",
+        "border-secondary": "#5E6186",
+        "highlight-button-primary": "#4357FE",
+        primary: "#080808",
+        secondary: "#121318",
+        tertiary: "#121618",
+        selector: "#212735",
+        "dialog-primary": "#383838",
+        "dialog-secondary": "#111112",
+        "button-primary": "#5367FE",
+        "button-wallet": "#5D5FEF",
+        separator: "#333438",
+        "separator-blue": "#414D7A",
+        "background-t-table": "#F8FAFF",
+        "bg-t-table": "#E5E9FF",
+        "bg-t-table-dark": "#323395",
+        "bg-t-table-border": "#363768",
+        charcoal: "##0A0A0A",
+        badge: "#1D1E2C",
+        // "text-primary": "#FFFFFF",
+        // "text-secondary": "#737373",
+        active: "#5366FF",
+        card: "#202225",
+        green: "#4BC67C",
+        red: "#C64B68",
+        yellow: "#FABF2C",
+        orange: "#DF7958",
+        grey: "#33CC66",
+        "grey-light": "#7A7F93",
+        "grey-dark": "#2B2C42",
+        blue: "#0000FF",
+        "gray-active": "#1E1F24",
+        gray: {
+          100: "#f7fafc",
+          200: "#edf2f7",
+          300: "#e2e8f0",
+          400: "#cbd5e0",
+          500: "#a0aec0",
+          600: "#718096",
+          700: "#4a5568",
+          800: "#2d3748",
+          900: "#1a202c",
+        },
+        iris: {
+          dark: "#223D8C",
+          "semi-dark": "#3F62CC",
+          base: "#5367FE",
+          faded: "#5E7ACE",
+          "semi-light": "#869EE9",
+          light: "#D4DFFF",
+        },
+        // map colors
+        "map-green": `#52EF7E`,
+        "map-yellow": `#FBE62C`,
+        "map-orange": `#FF9900`,
+        "map-red": `#FF3333`,
+        "map-gray": `#737373`,
+      },
+      screens: {
+        "3xl": "1600px",
+        "4xl": "1930px",
+      },
+      minWidth: ({ theme }) => ({
+        pageNavMenu: `${theme("width.pageNavMenu")}`,
+      }),
+      width: {
+        sidebar: "13.75rem",
+        "sidebar-closed": "3.5rem",
+        navbar: "calc(100vw - 14.75rem)",
+        "navbar-closed": "calc(100vw - 4.5rem)",
+        pageNavMenu: "15.7rem",
+      },
+      height: {
+        navbar: "4rem",
+        main: "calc(100vh - 4rem)",
+        128: "32rem;",
+        // pageNavItem: "2.47rem"
+      },
+      padding: ({ theme }) => ({
+        pageNavMenu: `${theme("width.pageNavMenu")}`,
+        mainTop: `${theme("inset.mainTop")}`,
+      }),
+      margin: ({ theme }) => ({
+        mainTop: `${theme("inset.mainTop")}`,
+        mainLeft: `${theme("inset.navbar")}`,
+        mainLeftSmall: "4.5rem",
+      }),
+      shadow: {
+        primary: "8px 0px 32px rgba(0, 0, 0, 0.25)",
+      },
+      inset: {
+        navbar: "14.75rem",
+        mainTop: "5rem",
+        revertMainTop: "-5rem",
+      },
+      // spacing:{
+      //   "16px":"1.23rem"
+      // },
+      fontFamily: {
+        manrope: "Manrope",
+        poppins: "Poppins",
+      },
+      borderWidth: {
+        1: "1px",
+      },
+      borderColor: {
+        dark: "#0A0A0A",
+        separator: "#2F3653",
+      },
+      borderRadius: {
+        sidebar: "20px",
+        navbar: "16px",
+        card: "14px",
+        "4px": "4px",
+        "8px": "8px",
+      },
+      gridTemplateColumns: ({ theme }) => ({
+        guidePageWithNav: `1fr ${theme("width.pageNavMenu")}`,
+      }),
+      keyframes: {
+        "expand-list": {
+          "0%": { width: "0px", height: "2.1875rem", overflow: "hidden" },
+          "50%": { height: "4.0625rem", overflow: "hidden" },
+          "75%": { height: "auto", overflow: "hidden" },
+          "100%": { width: "21.875rem", height: "auto", overflow: "unset" },
+        },
+      },
+      animation: {
+        "expand-list": "expand-list 0.3s ease",
+      },
+      transitionProperty: {
+        maxHeight: "height",
+      },
+    },
+  },
+  plugins: [
+    plugin(({ addBase }) => {
+      addBase({
+        html: { fontSize: "13px" },
+        "@media (min-width: 2000px)": {
+          html: { fontSize: "16px" },
+        },
+      });
+    }),
+  ],
+};

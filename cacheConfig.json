@@ -1,0 +1,72 @@
+[
+  {
+    "requestId": 0,
+    "commet": "https://script.google.com/macros/s/AKfycbyJgIjjVA1O0kZGS5h0t7ebIgGU8VlnhLjvRC5VOD2ZOzSoY2MtXZ231FUgzHa3zF4_MQ/exec",
+    "ttl": 120000
+  },
+  {
+    "requestId": 1,
+    "commet": "/api/backend/chains/top_changers",
+    "ttl": 60000
+  },
+  {
+    "requestId": 2,
+    "commet": "/api/backend/chains/[chainId].ts",
+    "ttl": 300000
+  },
+  {
+    "requestId": 3,
+    "commet": "/api/backend/chains/blockchains.ts",
+    "ttl": 900000
+  },
+  {
+    "requestId": 4,
+    "commet": "/api/backend/heatmap/[tokenId].ts",
+    "ttl": 3600000
+  },
+  {
+    "requestId": 5,
+    "commet": "/api/backend/presale/[tokenId].ts",
+    "ttl": 60000
+  },
+  {
+    "requestId": 6,
+    "commet": "/api/backend/presale/index.ts",
+    "ttl": 60000
+  },
+  {
+    "requestId": 7,
+    "commet": "/api/backend/tokens/[tokenId]",
+    "ttl": 300000
+  },
+  {
+    "requestId": 8,
+    "commet": "/api/backend/tokens/[tokenId]/socials.ts",
+    "ttl": 3600000
+  },
+  {
+    "requestId": 9,
+    "commet": "/api/backend/tokens/historical/heatmap.js",
+    "ttl": 3600000
+  },
+  {
+    "requestId": 10,
+    "commet": "/api/backend/tokens/historical/index.ts",
+    "ttl": 300000
+  },
+  {
+    "requestId": 11,
+    "commet": "/api/backend/tokens/price-feed.ts",
+    "ttl": 300000
+  },
+  {
+    "requestId": 12,
+    "commet": "/api/newsfeed/[keyword].ts",
+    "ttl": 3600000
+  },
+  {
+    "requestId": 13,
+    "commet": "/api/backend/ccxt",
+    "ttl": 60000
+  }
+]

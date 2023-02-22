@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      // ... other types
+      "node"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": [
+    "./next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "./src", 
+    "./scripts"
+    //    "src/components/Heatmap/index.js",
+    //    "src/components/TokenDetails/index.js",
+    //    "src/pages/tokens/[tokenId].js",
+    //    "src/components/Setting/InputForm.jsx"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}

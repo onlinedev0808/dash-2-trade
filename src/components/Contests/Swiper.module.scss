@@ -1,0 +1,19 @@
+$primary-color: #6D7CAD;
+
+.sliderWrapper {
+  :global(.swiper-pagination-bullets) {
+    position: static;
+    margin-top: 1.5rem;
+  }
+  :global(.swiper-pagination-bullet) {
+    background: transparent;
+    width: .769rem;
+    height: .769rem;
+    opacity: 1;
+    border: 1px solid $primary-color;
+  }
+  
+  :global(.swiper-pagination-bullet-active) {
+    background-color: $primary-color;
+  }
+}

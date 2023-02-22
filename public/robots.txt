@@ -1,0 +1,10 @@
+# Block all crawlers for /accounts
+User-agent: *
+Disallow: /accounts
+
+# Allow all crawlers
+User-agent: *
+Allow: /            
+
+Sitemap: https://example.com/sitemap.xml
+Sitemap: http://www.example.com/sitemap.xml

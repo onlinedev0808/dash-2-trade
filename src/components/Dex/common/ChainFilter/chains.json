@@ -1,0 +1,297 @@
+[
+  {
+    "id": "ether",
+    "name": "Ethereum",
+    "image": "/dex/ether.png"
+  },
+  {
+    "id": "bsc",
+    "name": "BNB Chain",
+    "image": "/dex/bsc.png"
+  },
+  {
+    "id": "polygon",
+    "name": "Polygon",
+    "image": "/dex/polygon.png"
+  },
+  {
+    "id": "ethw",
+    "name": "EthereumPoW",
+    "image": "/dex/ethw.png"
+  },
+  {
+    "id": "shib",
+    "name": "Shibchain",
+    "image": "/dex/shib.png"
+  },
+  {
+    "id": "solana",
+    "name": "Solana",
+    "image": "/dex/solana.png"
+  },
+  {
+    "id": "fantom",
+    "name": "Fantom",
+    "image": "/dex/fantom.png"
+  },
+  {
+    "id":  "avalanche",
+    "name": "Avalanche",
+    "image": "/dex/avalanche.png"
+  },
+  {
+    "id": "cronos",
+    "name": "Cronos",
+    "image": "/dex/cronos.png"
+  },
+  {
+    "id": "dogechain",
+    "name": "Doge Chain",
+    "image": "/dex/dogechain.png"
+  },
+  {
+    "id": "oec",
+    "name": "OKC",
+    "image": "/dex/oec.png"
+  },
+  {
+    "id": "arbitrum",
+    "name": "Arbitrum",
+    "image": "/dex/arbitrum.png"
+  },
+  {
+    "id": "metis",
+    "name": "Metis",
+    "image": "/dex/metis.png"
+  },
+  {
+    "id": "heco",
+    "name": "Heco",
+    "image": "/dex/heco.png"
+  },
+  {
+    "id": "velas",
+    "name": "Velas",
+    "image": "/dex/velas.png"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "image": "/dex/aurora.png"
+  },
+  {
+    "id": "harmony",
+    "name": "Harmony",
+    "image": "/dex/harmony.png"
+  },
+  {
+    "id": "moonbeam",
+    "name": "Moonbeam",
+    "image": "/dex/moonbeam.png"
+  },
+  {
+    "id": "oasis",
+    "name": "Oasis",
+    "image": "/dex/oasis.png"
+  },
+  {
+    "id": "kucoin",
+    "name": "KCC",
+    "image": "/dex/kucoin.png"
+  },
+  {
+    "id": "astar",
+    "name": "Astar",
+    "image": "/dex/astar.png"
+  },
+  {
+    "id": "celo",
+    "name": "Celo",
+    "image": "/dex/celo.png"
+  },
+  {
+    "id": "moonriver",
+    "name": "Moonriver",
+    "image": "/dex/moonriver.png"
+  },
+  {
+    "id": "optimism",
+    "name": "Optimism",
+    "image": "/dex/optimism.png"
+  },
+  {
+    "id": "iotex",
+    "name": "Iotex",
+    "image": "/dex/iotex.png"
+  },
+  {
+    "id": "fuse",
+    "name": "Fuse",
+    "image": "/dex/fuse.png"
+  },
+  {
+    "id": "telos",
+    "name": "Telos",
+    "image": "/dex/telos.png"
+  },
+  {
+    "id": "milkomeda",
+    "name": "Milkomeda",
+    "image": "/dex/milkomeda.png"
+  },
+  {
+    "id": "avalanche",
+    "name": "Avax DFK",
+    "image": "/dex/avalanche.png"
+  },
+  {
+    "id": "etc",
+    "name": "Eth Classic",
+    "image": "/dex/etc.png"
+  },
+  {
+    "id": "bitgert",
+    "name": "Bitgert",
+    "image": "/dex/bitgert.png"
+  },
+  {
+    "id": "arbitrumnova",
+    "name": "Arbitrum nova",
+    "image": "/dex/arbitrumnova.png"
+  },
+  {
+    "id": "redlight",
+    "name": "Redlight",
+    "image": "/dex/redlight.png"
+  },
+  {
+    "id": "canto",
+    "name": "Canto",
+    "image": "/dex/canto.png"
+  },
+  {
+    "id": "echelon",
+    "name": "Echelon",
+    "image": "/dex/echelon.png"
+  },
+  {
+    "id": "kardia",
+    "name": "KardiaChain",
+    "image": "/dex/kardia.png"
+  },
+  {
+    "id": "tomb",
+    "name": "Tomb Chain",
+    "image": "/dex/tomb.png"
+  },
+  {
+    "id": "conflux",
+    "name": "Conflux",
+    "image": "/dex/conflux.png"
+  },
+  {
+    "id": "smartbch",
+    "name": "Smartbch",
+    "image": "/dex/smartbch.png"
+  },
+  {
+    "id": "shiden",
+    "name": "Shiden",
+    "image": "/dex/shiden.png"
+  },
+  {
+    "id": "boba",
+    "name": "Boba",
+    "image": "/dex/boba.png"
+  },
+  {
+    "id": "elastos",
+    "name": "Elastos",
+    "image": "/dex/elastos.png"
+  },
+  {
+    "id": "wan",
+    "name": "WanChain",
+    "image": "/dex/wan.png"
+  },
+  {
+    "id": "rsk",
+    "name": "RSK",
+    "image": "/dex/rsk.png"
+  },
+  {
+    "id": "gnosis",
+    "name": "Gnosis",
+    "image": "/dex/gnosis.png"
+  },
+  {
+    "id": "nova",
+    "name": "Nova",
+    "image": "/dex/nova.png"
+  },
+  {
+    "id": "cube",
+    "name": "Cube",
+    "image": "/dex/cube.png"
+  },
+  {
+    "id": "syscoin",
+    "name": "Syscoin",
+    "image": "/dex/syscoin.png"
+  },
+  {
+    "id": "ronin",
+    "name": "Ronin",
+    "image": "/dex/ronin.png"
+  },
+  {
+    "id": "fusion",
+    "name": "Fusion",
+    "image": "/dex/fusion.png"
+  },
+  {
+    "id": "kava",
+    "name": "Kava",
+    "image": "/dex/kava.png"
+  },
+  {
+    "id": "hoo",
+    "name": "Hoo Smart",
+    "image": "/dex/hoo.png"
+  },
+  {
+    "id": "tomo",
+    "name": "Tomo",
+    "image": "/dex/tomo.png"
+  },
+  {
+    "id": "thundercore",
+    "name": "Thundercore",
+    "image": "/dex/thundercore.png"
+  },
+  {
+    "id": "meter",
+    "name": "Meter",
+    "image": "/dex/meter.png"
+  },
+  {
+    "id": "kek",
+    "name": "RSK",
+    "image": "/dex/kek.png"
+  },
+  {
+    "id": "ethf",
+    "name": "EthereumFair",
+    "image": "/dex/ethf.png"
+  },
+  {
+    "id": "sx",
+    "name": "SX Network",
+    "image": "/dex/sx.png"
+  },
+  {
+    "id": "muu",
+    "name": "Muu Chain",
+    "image": "/dex/muu.png"
+  }
+]
